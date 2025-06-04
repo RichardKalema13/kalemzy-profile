@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Richard Kalema",
+  "alternateName": "Kalemzy",
+  "jobTitle": ["Businessman", "DJ", "Beatmaker"],
+  "nationality": "Ugandan",
+  "sameAs": [
+    "https://youtube.com/yourchannel",
+    "https://instagram.com/kalemzy",
+    "https://twitter.com/kalemzy",
+    "https://soundcloud.com/kalemzy",
+    "https://musicbrainz.org/artist/yourid"
+  ]
+}
